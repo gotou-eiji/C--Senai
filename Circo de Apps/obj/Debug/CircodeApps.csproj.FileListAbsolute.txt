@@ -1,0 +1,12 @@
+C:\Users\Aluno\source\repos\CircoApps\bin\Debug\CircoApps.exe.config
+C:\Users\Aluno\source\repos\CircoApps\bin\Debug\CircoApps.exe
+C:\Users\Aluno\source\repos\CircoApps\bin\Debug\CircoApps.pdb
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircodeApps.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.FormMenu.resources
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.Properties.Resources.resources
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircodeApps.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircodeApps.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.exe
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.pdb
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.FormSplash.resources
+C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.FormCaraCoroa.resources
