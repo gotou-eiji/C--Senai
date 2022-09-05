@@ -42,5 +42,10 @@ namespace CircoApps
         {
 
         }
+
+        private void pbxResultado_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

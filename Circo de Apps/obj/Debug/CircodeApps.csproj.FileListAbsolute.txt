@@ -10,3 +10,29 @@ C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.exe
 C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.pdb
 C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.FormSplash.resources
 C:\Users\Aluno\source\repos\CircoApps\obj\Debug\CircoApps.FormCaraCoroa.resources
+C:\Users\Aluno\Desktop\Circo de Apps\bin\Debug\CircoApps.exe.config
+C:\Users\Aluno\Desktop\Circo de Apps\bin\Debug\CircoApps.exe
+C:\Users\Aluno\Desktop\Circo de Apps\bin\Debug\CircoApps.pdb
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircodeApps.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircoApps.FormCaraCoroa.resources
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircoApps.FormMenu.resources
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircoApps.FormSplash.resources
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircoApps.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircodeApps.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircodeApps.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircoApps.exe
+C:\Users\Aluno\Desktop\Circo de Apps\obj\Debug\CircoApps.pdb
+C:\Circo de Apps\obj\Debug\CircodeApps.csproj.AssemblyReference.cache
+C:\Circo de Apps\obj\Debug\CircoApps.FormCaraCoroa.resources
+C:\Circo de Apps\obj\Debug\CircoApps.FormMenu.resources
+C:\Circo de Apps\obj\Debug\CircoApps.FormSplash.resources
+C:\Circo de Apps\obj\Debug\CircoApps.Properties.Resources.resources
+C:\Circo de Apps\obj\Debug\CircodeApps.csproj.GenerateResource.cache
+C:\Circo de Apps\obj\Debug\CircodeApps.csproj.CoreCompileInputs.cache
+C:\Circo de Apps\obj\Debug\CircoApps.exe
+C:\Circo de Apps\obj\Debug\CircoApps.pdb
+C:\Circo de Apps\bin\Debug\CircoApps.exe.config
+C:\Circo de Apps\bin\Debug\CircoApps.exe
+C:\Circo de Apps\bin\Debug\CircoApps.pdb
+C:\Circo de Apps\obj\Debug\CircoApps.FormConversorMoeda.resources
+C:\Circo de Apps\obj\Debug\CircoApps.FormBuscaCEP.resources

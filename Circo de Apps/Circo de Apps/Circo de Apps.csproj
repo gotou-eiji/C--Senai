@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FA6F2448-6C20-4CC1-9DCB-54F948FAF010}</ProjectGuid>
+    <ProjectGuid>{58E38653-FF54-40EC-A4A5-C5FE4AEC07D8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CircoApps</RootNamespace>
-    <AssemblyName>CircoApps</AssemblyName>
+    <RootNamespace>Circo_de_Apps</RootNamespace>
+    <AssemblyName>Circo de Apps</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,53 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormBuscaCEP.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBuscaCEP.Designer.cs">
-      <DependentUpon>FormBuscaCEP.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormCaraCoroa.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormCaraCoroa.Designer.cs">
-      <DependentUpon>FormCaraCoroa.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormConversorMoeda.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormConversorMoeda.Designer.cs">
-      <DependentUpon>FormConversorMoeda.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormMenu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormMenu.Designer.cs">
-      <DependentUpon>FormMenu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormSplash.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormSplash.Designer.cs">
-      <DependentUpon>FormSplash.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormBuscaCEP.resx">
-      <DependentUpon>FormBuscaCEP.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormCaraCoroa.resx">
-      <DependentUpon>FormCaraCoroa.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormConversorMoeda.resx">
-      <DependentUpon>FormConversorMoeda.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormMenu.resx">
-      <DependentUpon>FormMenu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormSplash.resx">
-      <DependentUpon>FormSplash.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -101,7 +62,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -115,30 +75,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cep.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\circo.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ico_circo.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\logo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\moeda.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sair.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cara.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\coroa.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

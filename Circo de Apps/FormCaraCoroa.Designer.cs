@@ -68,8 +68,10 @@ namespace CircoApps
             this.pbxResultado.Location = new System.Drawing.Point(24, 25);
             this.pbxResultado.Name = "pbxResultado";
             this.pbxResultado.Size = new System.Drawing.Size(315, 271);
+            this.pbxResultado.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbxResultado.TabIndex = 2;
             this.pbxResultado.TabStop = false;
+            this.pbxResultado.Click += new System.EventHandler(this.pbxResultado_Click);
             // 
             // lblResultado
             // 
