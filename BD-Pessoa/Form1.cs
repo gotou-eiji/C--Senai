@@ -49,5 +49,40 @@ namespace AppPessoa
             txtNome.Text = "";
             txtIdade.Text = "";
         }
+
+        private void btnEditar_Click(object sender, EventArgs e)
+        {
+            int Id = Convert.ToInt32(txtId.Text.Trim());
+            Pessoa pessoa = new Pessoa();
+            pessoa.Atualizar(Id, txtNome.Text, txtIdade.Text);
+            MessageBox.Show("Pessoa atualizada com sucesso!");
+            List<Pessoa> pessoas = pessoa.listapessoas();
+            dgvPessoa.DataSource = pessoas;
+            txtNome.Text = "";
+            txtIdade.Text = "";
+            txtId.Text = "";
+        }
+
+        private void btnExcluir_Click(object sender, EventArgs e)
+        {
+            int Id = Convert.ToInt32(txtId.Text.Trim());
+            Pessoa pessoa = new Pessoa();
+            pessoa.Excluir(Id);
+            MessageBox.Show("Pessoa excluída com sucesso!");
+            List<Pessoa> pessoas = pessoa.listapessoas();
+            dgvPessoa.DataSource = pessoas;
+            txtNome.Text = "";
+            txtIdade.Text = "";
+            txtId.Text = "";
+        }
+
+        private void btnLocalizar_Click(object sender, EventArgs e)
+        {
+            int Id = Convert.ToInt32(txtId.Text.Trim());
+            Pessoa pessoa = new Pessoa();
+            pessoa.Localizar(Id);
+            txtNome.Text = pessoa.nome;
+            txtIdade.Text = pessoa.idade;
+        }
     }
 }
