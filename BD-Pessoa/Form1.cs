@@ -84,5 +84,17 @@ namespace AppPessoa
             txtNome.Text = pessoa.nome;
             txtIdade.Text = pessoa.idade;
         }
+
+        private void dgvPessoa_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if(e.RowIndex >= 0)
+            {
+                DataGridViewRow row = this.dgvPessoa.Rows[e.RowIndex];
+                row.Selected = true;
+                txtId.Text = row.Cells[0].Value.ToString();
+                txtNome.Text = row.Cells[1].Value.ToString();
+                txtIdade.Text = row.Cells[2].Value.ToString();
+            }
+        }
     }
 }

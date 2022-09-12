@@ -66,6 +66,7 @@ namespace AppPessoa
             this.dgvPessoa.ReadOnly = true;
             this.dgvPessoa.Size = new System.Drawing.Size(667, 174);
             this.dgvPessoa.TabIndex = 1;
+            this.dgvPessoa.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPessoa_CellClick);
             // 
             // lblId
             // 
