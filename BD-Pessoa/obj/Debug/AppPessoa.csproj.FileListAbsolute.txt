@@ -1,0 +1,12 @@
+C:\App\AppPessoa\bin\Debug\DbPessoa.mdf
+C:\App\AppPessoa\bin\Debug\DbPessoa_log.ldf
+C:\App\AppPessoa\bin\Debug\AppPessoa.exe.config
+C:\App\AppPessoa\bin\Debug\AppPessoa.exe
+C:\App\AppPessoa\bin\Debug\AppPessoa.pdb
+C:\App\AppPessoa\obj\Debug\AppPessoa.csproj.AssemblyReference.cache
+C:\App\AppPessoa\obj\Debug\AppPessoa.Form1.resources
+C:\App\AppPessoa\obj\Debug\AppPessoa.Properties.Resources.resources
+C:\App\AppPessoa\obj\Debug\AppPessoa.csproj.GenerateResource.cache
+C:\App\AppPessoa\obj\Debug\AppPessoa.csproj.CoreCompileInputs.cache
+C:\App\AppPessoa\obj\Debug\AppPessoa.exe
+C:\App\AppPessoa\obj\Debug\AppPessoa.pdb
